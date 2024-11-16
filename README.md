@@ -3,7 +3,7 @@
 
 A working OpenCore configuration for ASUS TUF GAMING B450M PRO S Hackintosh build.
 
-![macOS Sequoia](/macOS-Sequoia.png)
+![macOS Sequoia](/macOS-Sequoia.webp)
 
 ## 🖥 Hardware Specifications
 | Component | Model |
